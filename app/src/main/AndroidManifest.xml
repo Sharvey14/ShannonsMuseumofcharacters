@@ -16,9 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".hackers" />
-        <activity android:name=".legendHeroes" />
-        <activity android:name=".exhibits"></activity>
+        <activity android:name=".HackersActivity" />
+        <activity android:name=".LegendHeroesActivity" />
+        <activity android:name=".ExhibitsActivity" />
     </application>
 
 </manifest>
